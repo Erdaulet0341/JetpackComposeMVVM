@@ -3,9 +3,11 @@ My first project in Jetpack compose and Jetpack Compose Navigation. All my  proj
 
 
 ## Video recording before 12:00
+In webview opened google.com
 https://github.com/Erdaulet0341/JetpackComposeMVVM/assets/98634106/47155bd7-33ee-47c0-be9d-c8493cba344f
 
 ## Video recording after 12:00
+Text hello, 3 same images from my gallery and one button when cliking text "Hello" come out under button.
 https://github.com/Erdaulet0341/JetpackComposeMVVM/assets/98634106/1cae7907-eeae-4118-a11c-543f9e0920cd
 
 
